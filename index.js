@@ -1,6 +1,6 @@
 'use strict';
 const os = require('os');
-const APP_NAME = 'template-engine-93b556';
+const APP_NAME = 'template-engine-9b3bbf';
 const VERSION = '1.0.0';
 class UtemplateUengineHandler {
   constructor(options = {}) {
